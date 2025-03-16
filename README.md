@@ -1,1 +1,1 @@
-Planning to update in the future with better graphics and animations and a clear theme to the game. 
+I made this clicker game in the fall of 2024, building off the Java knowledge I learned from the first game I built a year ago. There is significant improvement in the way the code is organized and written. I hope to update this game in the future and continue to improve my programming skills. 
